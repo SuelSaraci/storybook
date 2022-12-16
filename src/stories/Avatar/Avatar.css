@@ -1,0 +1,20 @@
+.img-object-border {
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid #d0d5dd;
+}
+
+.AvatarImage--small {
+  width: 72px;
+  height: 72px;
+}
+
+.AvatarImage--medium {
+  width: 96px;
+  height: 96px;
+}
+
+.AvatarImage--large {
+  width: 160px;
+  height: 160px;
+}
